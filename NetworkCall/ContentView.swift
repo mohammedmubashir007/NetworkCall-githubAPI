@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  NetworkCall
-//
-//  Created by Mohammed Mubashir on 08/06/23.
-//
-
 import SwiftUI
 
 struct ContentView: View {
